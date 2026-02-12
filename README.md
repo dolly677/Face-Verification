@@ -1,5 +1,4 @@
-# COMSYS-Hackathon-5-2025
-###  Task B: Face Verification
+# Face Verification Using Triplet Network & ResNet-50
 - **Objective:** 
     Build a **face verification system** that reliably matches distorted face images to their correct identities using metric learning, without relying on traditional classification approaches.
 
