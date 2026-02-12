@@ -1,15 +1,4 @@
 # Face Verification Using Triplet Network & ResNet-50
-Enumerating objects: 24, done.
-Counting objects: 100% (24/24), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (24/24), done.
-Writing objects: 100% (24/24), 6.69 MiB | 440.00 KiB/s, done.
-Total 24 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/dolly677/Face-Verification.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-
-C:\Users\dolly\Downloads\Face Verification Using Triplet Network & ResNet-50> Face Verification
 - **Objective:** 
     Build a **face verification system** that reliably matches distorted face images to their correct identities using metric learning, without relying on traditional classification approaches.
 
